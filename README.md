@@ -1,2 +1,2 @@
 my first readme
-This course has been interesting thus far
+This course is interesting
